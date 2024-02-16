@@ -435,21 +435,6 @@
                     <key>built-in</key>
                     <data>AA==</data>
                 </dict>
-                <key>RDNA2核显仿冒PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
-                <dict>
-                    <key>@0,name</key>
-                    <string>ATY,Henbury</string>
-                    <key>agdpmod</key>
-                    <string>pikera</string>
-                    <key>device-id</key>
-                    <data>/3MAAA==</data>
-                    <key>model</key>
-                    <string>AMD Radeon RX 6700S</string>
-                    <key>no-gfx-spoof</key>
-                    <integer>1</integer>
-                </dict>
-                <key>独显禁止PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x0)</key>
-                <dict/>
             </dict>
             <key>Delete</key>
             <dict/>
@@ -2921,7 +2906,7 @@
                     <key>DefaultBackgroundColor</key>
                     <data>AAAAAA==</data>
                     <key>UIScale</key>
-                    <data>Ag==</data>
+                    <data>AQ==</data>
                 </dict>
                 <key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
                 <dict>
@@ -3223,7 +3208,7 @@
                 <key>TextRenderer</key>
                 <string>BuiltinGraphics</string>
                 <key>UIScale</key>
-                <integer>0</integer>
+                <integer>1</integer>
                 <key>UgaPassThrough</key>
                 <false/>
             </dict>
