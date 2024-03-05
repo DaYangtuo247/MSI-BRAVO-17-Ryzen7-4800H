@@ -385,22 +385,15 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>#PciRoot(0x1)/Pci(0x2,0x2)/Pci(0x0,0x0)</key>
-			<dict>
-				<key>brcmfx-country</key>
-				<string>#a</string>
-				<key>pci-aspm-default</key>
-				<data>AAAAAQ==</data>
-			</dict>
-			<key>#PciRoot(0x1)/Pci(0x2,0x4)/Pci(0x0,0x0)</key>
-			<dict>
-				<key>built-in</key>
-				<data>AA==</data>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x3)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>built-in</key>
-				<data>AQAAAA==</data>
+				<data>AQ==</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x2,0x1)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>built-in</key>
+				<data>AQ==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -2135,11 +2128,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02046609J90000FB</string>
+			<string>C02046609CD00008C</string>
 			<key>ProcessorType</key>
 			<integer>3841</integer>
 			<key>ROM</key>
-			<data>c4CvfJAt</data>
+			<data>FPbYEwFf</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -2147,9 +2140,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DPJY4P3XY</string>
+			<string>C02DP0MRP3XY</string>
 			<key>SystemUUID</key>
-			<string>0CDF1209-5722-4A57-BF78-B498397C902D</string>
+			<string>CA34772D-F171-4715-81D9-486510CD24CF</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
